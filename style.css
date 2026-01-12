@@ -152,7 +152,6 @@ input:checked + .slider::before {
 
 .banner {
   height: auto;
-  background-color: #eaeaea;
 }
 .banner img {
   width: 100%;
@@ -160,8 +159,6 @@ input:checked + .slider::before {
   object-fit: fill;
 }
 
-.out-footer{
-}
 
 .fix-list ul li a {
   text-decoration: none;
